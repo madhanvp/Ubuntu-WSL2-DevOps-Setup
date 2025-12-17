@@ -254,8 +254,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues:** [GitHub Issues](../../issues)
 - **Discussions:** [GitHub Discussions](../../discussions)
-- **Email:** mady24@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** madhan.vp2005@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/madhan-vp-579193350/
 
 ---
 
