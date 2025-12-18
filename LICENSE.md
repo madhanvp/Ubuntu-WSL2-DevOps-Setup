@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Mady - Apollo Arts and Science College, Madras University
+Copyright (c) 2025 Madhan - Apollo Arts and Science College, Madras University
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
