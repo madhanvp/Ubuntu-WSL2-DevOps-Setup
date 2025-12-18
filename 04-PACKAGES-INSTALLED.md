@@ -328,7 +328,3 @@ sudo apt install -f
 **Total Packages:** 613  
 **Kernel:** 6.6.87.2-microsoft-standard-WSL2  
 **Status:** All packages up-to-date ✅
-
----
-
-**[← Back to README](../README.md)** | **[Next: SYSTEM CONFIGURATION →](05-SYSTEM-CONFIGURATION.md)**
