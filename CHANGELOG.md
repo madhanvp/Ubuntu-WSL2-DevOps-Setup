@@ -192,15 +192,3 @@ December 2025
 **Status:** Active Development  
 
 ---
-
-## Quick Links
-
-- [README](README.md) - Start here
-- [MINDMAP](MINDMAP.md) - Visual overview
-- [Installation Guide](docs/02-INSTALLATION-GUIDE.md) - Setup instructions
-- [Next Steps](docs/08-NEXT-STEPS.md) - Learning roadmap
-- [Troubleshooting](docs/07-TROUBLESHOOTING.md) - Problem solving
-
----
-
-**Happy DevOps Learning!** 🚀
