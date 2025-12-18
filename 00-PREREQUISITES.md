@@ -211,10 +211,3 @@ BEFORE STARTING INSTALLATION:
 Once you've completed this checklist, proceed to:
 
 **[→ WSL2 BASICS: Understanding WSL2](01-WSL2-BASICS.md)**
-
----
-
-**Status:** Prerequisites verified for your HP Victus 15 + Windows 11 ✅  
-**Ready to proceed?** Move to Installation Guide →
-
-**[← Back to README](../README.md)** | **[Next: WSL2 BASICS →](01-WSL2-BASICS.md)**
