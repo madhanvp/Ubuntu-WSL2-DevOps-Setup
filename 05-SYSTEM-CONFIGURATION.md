@@ -547,5 +547,3 @@ Once you've got the basics, consider:
    ```
 
 ---
-
-**[← Back to README](../README.md)** | **[Next: ACCESSING WINDOWS FILES →](06-ACCESSING-WINDOWS-FILES.md)**
