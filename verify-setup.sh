@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Ubuntu-WSL2-DevOps-Setup Verification Script
-# Checks that everything is installed and working
+# Ubuntu-WSL2-DevOps-Setup Verification Script.
+# Checks that everything is installed and working correctly.
 
 GREEN='\033[0;32m'
 RED='\033[0;31m'
