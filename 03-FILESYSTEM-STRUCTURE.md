@@ -441,7 +441,3 @@ tail -f /var/log/docker.log
 # Temporary files
 cd /tmp
 ```
-
----
-
-**[← Back to README](../README.md)** | **[Next: PACKAGES INSTALLED →](04-PACKAGES-INSTALLED.md)**
