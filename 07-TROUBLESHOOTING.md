@@ -599,4 +599,3 @@ docker ps -a > ~/docker-containers.txt
 
 ---
 
-**[← Back to README](../README.md)** | **[Next: NEXT STEPS →](08-NEXT-STEPS.md)**
