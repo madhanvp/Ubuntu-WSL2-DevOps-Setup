@@ -433,5 +433,3 @@ code /mnt/c/Users/Mady/Documents
 ```
 
 ---
-
-**[← Back to README](../README.md)** | **[Next: TROUBLESHOOTING →](07-TROUBLESHOOTING.md)**
