@@ -491,8 +491,6 @@ Projects:
 
 ---
 
-## 📞 Need Help?
-
 ### Resources in This Repo
 
 - [Troubleshooting](07-TROUBLESHOOTING.md) - Common issues
@@ -520,10 +518,6 @@ Your Ubuntu-WSL2 environment is the perfect sandbox to:
 - ✅ Practice for interviews
 
 **Start with Docker this week. You've got this!** 💪
-
----
-
-**[← Back to README](../README.md)** | **[Back to Main Docs](../README.md)**
 
 ---
 
