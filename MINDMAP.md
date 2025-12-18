@@ -364,5 +364,3 @@ Windows 11 (Host)
 - **Networking** - WSL2 network integration
 
 ---
-
-**[← Back to README](../README.md)** | **[Next: PREREQUISITES →](00-PREREQUISITES.md)**
