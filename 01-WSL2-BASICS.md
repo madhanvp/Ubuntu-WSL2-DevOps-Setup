@@ -371,5 +371,3 @@ Ready to understand the installation process?
 ---
 
 **Key Takeaway:** WSL2 gives you a production-like Linux environment on Windows, perfect for learning and practicing DevOps! 🎯
-
-**[← Back to README](../README.md)** | **[Next: INSTALLATION GUIDE →](02-INSTALLATION-GUIDE.md)**
