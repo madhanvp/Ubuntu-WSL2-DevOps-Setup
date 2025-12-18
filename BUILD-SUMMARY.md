@@ -403,7 +403,7 @@ You now have a **professional, complete Ubuntu-WSL2-DevOps-Setup repository** re
 
 ---
 
-**Built with ❤️ by Perpy**  
-**For Mady's DevOps Journey**  
-**December 17, 2025**
+**Built with ❤️ by Mady**  
+**For My DevOps Journey**  
+**December, 2025**
 
