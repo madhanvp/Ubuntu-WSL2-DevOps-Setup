@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ubuntu-WSL2-DevOps-Setup Automated Installer
-# This script automates the complete setup process
+# This script automates the setup process
 
 set -e  # Exit on error
 
